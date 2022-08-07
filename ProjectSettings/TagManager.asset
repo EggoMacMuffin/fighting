@@ -3,7 +3,27 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Player_Torso
+  - Player_Left_Arm
+  - Player_Right_Arm
+  - Player_Left_Leg
+  - Player_Right_Leg
+  - Player_Left_Hand
+  - Player_Right_Hand
+  - Player_Head
+  - Player_Left_Foot
+  - Player_Right_Foot
+  - Enemy_Head
+  - Enemy_Torso
+  - Enemy_Leg_L
+  - Enemy_Leg_R
+  - Enemy_Foot_L
+  - Enemy_Foot_R
+  - Enemy_Arm_L
+  - Enemy_Arm_R
+  - Enemy_Hand_L
+  - Enemy_Hand_R
   layers:
   - Default
   - TransparentFX
